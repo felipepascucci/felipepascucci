@@ -1,8 +1,6 @@
-# Olá, eu sou o Felipe Pascucci 👋
+# Felipe Pascucci 👋
 
 Estudante de **Ciência da Computação na Universidade Paulista (UNIP)**, na reta final do curso (TCC em 2026), e desenvolvedor web freelancer. Moro na região de São Paulo (Barueri/SP).
-
-Gosto de transformar problemas reais em sistemas que funcionam de ponta a ponta: da API e do banco de dados até a interface e, quando dá, o hardware. Hoje meu TCC une simulação de tráfego, um motor de decisão em Python e um protótipo físico com Arduino para priorizar veículos de emergência em semáforos.
 
 ## 🎓 Formação
 
